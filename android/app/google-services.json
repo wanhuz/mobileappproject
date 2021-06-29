@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157605195491",
+    "project_id": "madgpproject",
+    "storage_bucket": "madgpproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157605195491:android:b0f777676641d3a9991fd6",
+        "android_client_info": {
+          "package_name": "com.example.madgpproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157605195491-u9f7ol97n90ieokg23meja1lnvann8k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuhzrXn5T_LsQMx1p1tDUl8J5prpVIpcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157605195491-u9f7ol97n90ieokg23meja1lnvann8k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
