@@ -9,6 +9,5 @@ Project member:
 3. Ahmad Ridhuan Bin Ahmad Nazrien	- 1813711		(main.dart / authentication_service.dart / generated_plugin_registrant.dart / SignInPage.dart)
 
 Compilation/Running Instruction:
-None. Code can be run as is.
-If somehow, there is error, run "flutter pub get" and "flutter pub add http"
+Run "flutter pub get" and "flutter pub add http" using powershell at project dir.
 For log in, use email: Kude@gmail.com , password: qwerty1234
